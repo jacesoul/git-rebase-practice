@@ -9,3 +9,5 @@ rebase is hard!
 restart! 
 
 how to rebase?
+main 브랜치에 merge하는 방법을 사용해보자
+중첩의 커밋
